@@ -1,2 +1,4 @@
 # class-construct
-u can construct ur class on c++, py, rust and more, choose your lang
+for start u should choose .py for your lang, also u can change program for your interest, please if u change program then make a fork please:)
+
+for free use
